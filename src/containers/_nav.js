@@ -6,6 +6,7 @@ export default [
     icon: 'cil-speedometer',
     
   },
+  
   //TODO   Navigation addd karanne methanin side naw bar ekata
 ]
 
